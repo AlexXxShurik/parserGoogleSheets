@@ -1,0 +1,19 @@
+# Папки для виртуальных окружений
+venv/
+env/
+__pycache__/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# PyCharm / IntelliJ IDEA
+.idea/
+
+# Файлы конфигурации Python
+*.pyc
+*.pyo
+*.pyd
