@@ -14,7 +14,6 @@
 ```
 project/
 │
-├── color_translation.py     # Словарь перевода цветов
 ├── data_loader.py           # Модуль для загрузки данных из Excel
 ├── price_extractor.py       # Модуль для извлечения цен и поставщиков
 ├── product_parser.py        # Модуль для обработки данных о товарах
